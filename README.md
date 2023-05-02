@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://Subash10102k.github.io/Subash10102k/index.html" target="_blank" id="resume-link">Check Out My Resume</a>
+<a href="https://Subash10102k.github.io/Subash10102k.github.io/index.html" target="_blank" id="resume-link">Check Out My Resume</a>
 
 <br>
 
